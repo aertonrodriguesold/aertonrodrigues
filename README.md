@@ -1,6 +1,6 @@
 ### Olá ✌😎
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java e Javascript
+- 🌱 Estudando Javascript/HTML/CSS e java
 - 😄 Pronouns: ele/dele
 
